@@ -1,0 +1,6 @@
+﻿  Project Kasir.cpp
+D:\C++ Kuliah\Project Akhir Semester 1\Code\Project Kasir.cpp(162,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Kuliah\Project Akhir Semester 1\Code\Project Kasir.cpp(165,19): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+D:\C++ Kuliah\Project Akhir Semester 1\Code\Project Kasir.cpp(273,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Kuliah\Project Akhir Semester 1\Code\Project Kasir.cpp(276,19): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+  Code.vcxproj -> D:\C++ Kuliah\Project Akhir Semester 1\x64\Debug\Code.exe
